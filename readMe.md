@@ -1,1 +1,1 @@
-# LeetCode 算法联系，每日一题
+# LeetCode 算法练习，每日一题
